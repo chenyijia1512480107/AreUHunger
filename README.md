@@ -1,2 +1,3 @@
 # AreUHungy
 public
+static
